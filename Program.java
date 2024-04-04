@@ -66,7 +66,7 @@ public class Program {
             myLinkedList.AddFront("Hi");
             myLinkedList.Append("Dog");
             System.out.println(myLinkedList.GetSize());
-            System.out.println(myLinkList); 
+            System.out.println(myLinkedList); 
 
         }
 

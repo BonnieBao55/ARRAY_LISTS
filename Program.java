@@ -59,14 +59,14 @@ public class Program {
 
 
         //System.out.println();
-        Public static void main(String[] args){
-            MyLinkedList<String> MyLinkedList = new MyLinkedList<String>;
+        
+            MyLinkedList<String> MyLinkedList = new MyLinkedList<String>();
             MyLinkedList.AddFront("World!");
-            myLinkedList.AddFront("Hello!");
-            myLinkedList.AddFront("Hi");
-            myLinkedList.Append("Dog");
-            System.out.println(myLinkedList.GetSize());
-            System.out.println(myLinkedList); 
+            MyLinkedList.AddFront("Hello!");
+            MyLinkedList.AddFront("Hi");
+            MyLinkedList.Append("Dog");
+            System.out.println(MyLinkedList.GetSize());
+            System.out.println(MyLinkedList); 
 
         }
 
@@ -74,4 +74,3 @@ public class Program {
         
     }
 
-}

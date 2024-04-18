@@ -1,0 +1,4 @@
+
+public class Nude<T> {
+
+}
